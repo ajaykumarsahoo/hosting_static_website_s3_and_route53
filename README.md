@@ -21,7 +21,7 @@ Prerequisits:
 
 #MyWebsite URL: http://ajtechvlogs.com/
 
-#My Website Home Page S3 Endpoint: http://ajtechvlogs.com.s3-website-us-east-1.amazonaws.com/
+#My Website Home Page S3 Endpoint URL: http://ajtechvlogs.com.s3-website-us-east-1.amazonaws.com/
 
 
 ![website-godaddy route53](https://user-images.githubusercontent.com/50776786/207429428-8abc54bc-7aaa-4fd4-8281-1a4f39220716.PNG)
