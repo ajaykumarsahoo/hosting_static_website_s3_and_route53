@@ -1,3 +1,6 @@
+/*Before running this backend block we need to create S3 bucket and DynamoDb table. 
+Then run "$terraform init" and then "$terraform apply" to initialize the s3 backened. */
+
 #Remote state S3 backend
 terraform {
   backend "s3" {
