@@ -2,6 +2,20 @@
 
 ![hosting static website](https://user-images.githubusercontent.com/50776786/207427288-a9299331-d8c6-40dc-8cb5-216102f83c1a.png)
 
+
+Prerequisits:
+-------------
+1. Aws Account (Free Tier).
+
+2. Configure AWS CLI.
+
+3. Install Terraform.
+
+4. Install Visual Studio Code as IDE.
+
+5. Install Gitbash.
+
+
 #GoDaddy Domain Name and Route53 NS :
 -------------------------------------
 
