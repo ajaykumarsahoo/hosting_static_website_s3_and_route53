@@ -19,6 +19,8 @@ Prerequisits:
 #GoDaddy Domain Name and Route53 NS :
 -------------------------------------
 
+#MyWebsite URL: http://ajtechvlogs.com/
+
 ![website-godaddy route53](https://user-images.githubusercontent.com/50776786/207429428-8abc54bc-7aaa-4fd4-8281-1a4f39220716.PNG)
 
 #S3 static website endpoint URL:
