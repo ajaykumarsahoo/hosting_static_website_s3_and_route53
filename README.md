@@ -5,7 +5,7 @@
 
 Prerequisits:
 -------------
-1. Aws Account (Free Tier).
+1. AWS Account (Free Tier).
 
 2. Configure AWS CLI.
 
